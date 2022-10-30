@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
-	"name": "BOT_NAME"
+	"ip":"csservers.aternos.me",
+	"port": "56591",
+	"name": "[Admin] Fagatron 9000"
 }
